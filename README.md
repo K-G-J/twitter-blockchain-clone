@@ -1,4 +1,3 @@
-=======
 # Decentratwitter
 
 ## Technology Stack & Tools
